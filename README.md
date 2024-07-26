@@ -3,27 +3,27 @@
 ![Wanderlust Logo](path/to/logo.png)
 
 ---
-<div>
-  <h2><img src="inimation.gif" width="35" height="35"> Overview</h2>
-</div>
+
+## Overview
+![Overview Image](path/to/overview.png)
 
 Wanderlust is a full-stack MARN stack application designed to provide a platform similar to Airbnb, where users can search for accommodations, make bookings, and leave reviews. With a sleek and intuitive interface, Wanderlust aims to make finding and booking your next adventure easy and enjoyable.
 
 ---
 
 ## Table of Contents
-- [📑 Features](#-features)
-- [🔧 Technologies](#-technologies)
-- [⚙️ Installation](#-installation)
-- [🚀 Usage](#-usage)
-- [📸 Screenshots](#-screenshots)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [📞 Contact](#-contact)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
-## 📑 Features
+## Features
 ![Features Image](path/to/features.png)
 
 - User authentication and authorization
@@ -35,7 +35,7 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 
 ---
 
-## 🔧 Technologies
+## Technologies
 ![Technologies Image](path/to/technologies.png)
 
 - **MongoDB**: Database
@@ -45,7 +45,7 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 
 ---
 
-## ⚙️ Installation
+## Installation
 ![Installation Image](path/to/installation.png)
 
 1. **Clone the repository**
@@ -76,7 +76,7 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 
 ---
 
-## 🚀 Usage
+## Usage
 ![Usage Image](path/to/usage.png)
 
 1. **Register and log in** to access all features.
@@ -87,7 +87,7 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 ![Screenshots Image](path/to/screenshots.png)
 
 ![Homepage](path/to/homepage.png)
@@ -101,7 +101,7 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 
 ---
 
-## 🤝 Contributing
+## Contributing
 ![Contributing Image](path/to/contributing.png)
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and include relevant tests.
@@ -123,14 +123,14 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ---
 
-## 📜 License
+## License
 ![License Image](path/to/license.png)
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📞 Contact
+## Contact
 ![Contact Image](path/to/contact.png)
 
 For any questions or suggestions, please reach out to:
@@ -142,7 +142,3 @@ For any questions or suggestions, please reach out to:
 ---
 
 *Happy wandering with Wanderlust!*
-
-
-
-<!-- -------------------------------------------------------------------------------------------- -->
