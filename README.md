@@ -17,14 +17,14 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 </div>
 
 ---
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [📑 Features](#-features)
+- [🔧 Technologies](#-technologies)
+- [⚙️ Installation](#-installation)
+- [🚀 Usage](#-usage)
+- [📸 Screenshots](#-screenshots)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+- [📞 Contact](#-contact)
 
 ---
 
