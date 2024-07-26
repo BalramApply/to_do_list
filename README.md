@@ -2,8 +2,14 @@
 
 ![Wanderlust Logo](home.png)
 
+---
+
 ## Overview
+![Overview Image](path/to/overview.png)
+
 Wanderlust is a full-stack MARN stack application designed to provide a platform similar to Airbnb, where users can search for accommodations, make bookings, and leave reviews. With a sleek and intuitive interface, Wanderlust aims to make finding and booking your next adventure easy and enjoyable.
+
+---
 
 ## Table of Contents
 - [Features](#features)
@@ -15,7 +21,11 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 - [License](#license)
 - [Contact](#contact)
 
+---
+
 ## Features
+![Features Image](path/to/features.png)
+
 - User authentication and authorization
 - Search accommodations by country, city, or specific criteria
 - View detailed listings with photos, descriptions, and reviews
@@ -23,13 +33,21 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 - Post and view reviews of accommodations
 - Responsive design for seamless experience on all devices
 
+---
+
 ## Technologies
+![Technologies Image](path/to/technologies.png)
+
 - **MongoDB**: Database
 - **Express.js**: Backend framework
 - **React.js**: Frontend library
 - **Node.js**: Server environment
 
+---
+
 ## Installation
+![Installation Image](path/to/installation.png)
+
 1. **Clone the repository**
     ```bash
     git clone https://github.com/yourusername/wanderlust.git
@@ -56,14 +74,22 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
     npm run dev
     ```
 
+---
+
 ## Usage
+![Usage Image](path/to/usage.png)
+
 1. **Register and log in** to access all features.
 2. **Search for accommodations** by entering a location or using filters.
 3. **View accommodation details** including photos, descriptions, and reviews.
 4. **Make a booking** by selecting available dates.
 5. **Leave a review** after your stay.
 
+---
+
 ## Screenshots
+![Screenshots Image](path/to/screenshots.png)
+
 ![Homepage](path/to/homepage.png)
 *Homepage*
 
@@ -73,7 +99,11 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 ![Listing Details](path/to/listing_details.png)
 *Listing Details*
 
+---
+
 ## Contributing
+![Contributing Image](path/to/contributing.png)
+
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and include relevant tests.
 
 1. Fork the repository
@@ -91,10 +121,18 @@ Contributions are welcome! Please fork the repository and create a pull request 
     ```
 5. Open a pull request
 
+---
+
 ## License
+![License Image](path/to/license.png)
+
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
 ## Contact
+![Contact Image](path/to/contact.png)
+
 For any questions or suggestions, please reach out to:
 
 - **Name**: Your Name
