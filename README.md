@@ -41,10 +41,18 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 
 ## 🔧 Technologies
 
+- **JavaScript**
+- **Node.js**
+- **Express.js**
 - **MongoDB**: Database
-- **Express.js**: Backend framework
-- **React.js**: Frontend library
-- **Node.js**: Server environment
+- **Cloudinary**
+- **EJS**
+- **Joi**
+- **Multer**
+- **Passport**
+- **HTML**
+- **CSS**
+- **Bootstrap**
 
 ---
 
