@@ -1,6 +1,6 @@
 # Wanderlust
 
-![Wanderlust Logo](path/to/logo.png)
+![Wanderlust Logo](home.png)
 
 ---
 
@@ -12,7 +12,9 @@ Wanderlust is a full-stack MARN stack application designed to provide a platform
 
 ---
 
-## Table of Contents
+<div>
+  <h2><img src="star" width="35" height="35">home</h2>
+</div>
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
