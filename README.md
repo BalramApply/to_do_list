@@ -4,8 +4,9 @@
 
 ---
 
-## Overview
-![Overview Image](path/to/overview.png)
+<div>
+  <h2><img src="inimation.gif" width="35" height="35"> Overview</h2>
+</div>
 
 Wanderlust is a full-stack MARN stack application designed to provide a platform similar to Airbnb, where users can search for accommodations, make bookings, and leave reviews. With a sleek and intuitive interface, Wanderlust aims to make finding and booking your next adventure easy and enjoyable.
 
