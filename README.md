@@ -1,6 +1,4 @@
-<div>
-  <h2><img src="earth.webp" width="35" height="35"> Overview</h2>
-</div>
+## 🌏 Wanderlust
 
 ![Wanderlust Logo](home.png)
 
