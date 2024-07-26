@@ -3,7 +3,9 @@
 ![Wanderlust Logo](path/to/logo.png)
 
 ---
-
+<div>
+  <h2><img src="inimation.gif" width="35" height="35"> Overview</h2>
+</div>
 ## Overview
 ![Overview Image](path/to/overview.png)
 
@@ -142,3 +144,7 @@ For any questions or suggestions, please reach out to:
 ---
 
 *Happy wandering with Wanderlust!*
+
+
+
+<!-- -------------------------------------------------------------------------------------------- -->
